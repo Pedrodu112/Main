@@ -12,8 +12,8 @@
 # 
 
 <div style= "display: flex; gap: 2px;">
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Vitor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Vitor&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Pedrodu112&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodu112&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 #
@@ -22,7 +22,7 @@
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
-    <h3 align="center">Melhores Tecnologias <3</h3>
+    <h3 align="center">Marketing Digital<3</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/">
     <img width="25" src="linkedin.webp">
   </a>
-  <a href="https://gitlab.com/Pedro-Vitor">
+  <a href="https://gitlab.com/Pedrodu112">
     <img width="25" src="gitlab-Photoroom.png">
   </a>
   <a href="https://www.instagram.com/pedro_vitortnt/">
