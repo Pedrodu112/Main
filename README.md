@@ -35,7 +35,7 @@
   <a href="mailto:mandraketnt@gmail.com">
     <img width="30" src="gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/pedro-vitor-de-freitas-duarte-522000325/">
     <img width="25" src="linkedin.webp">
   </a>
   <a href="https://gitlab.com/Pedrodu112">
