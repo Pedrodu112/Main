@@ -6,7 +6,7 @@
 #
 
 <div>
-    <p align="center"> Meu nome é Pedro Vitor de Freitas Duarte, sou estudante ,tenho interesse na area de vendas online, e escolhi essa área pela beleza sutil que existe nas vendas online. O que mais me encanta no marketing digital é a singularidade de cada projeto: cada venda é única, assim como o trabalho resultante. Além disso, a proximidade entre o Vendedor ou designer e o cliente é algo que considera essencial, pois possibilita a criação de soluções sob medida que atendam às necessidades formais de cada pessoa. Isso é o que torna o Vendedor/Designer uma experiência tão gratificante e desafiadora. </p>
+    <p align="center"> Meu nome é Pedro Vitor de Freitas Duarte, sou estudante , estou cursando a area de Sistemas para Internet, e escolhi essa área pelos detalhes pequenos que resultam em grande coisas que existe TSI. O que mais me encanta no TSI é a singularidade de cada projeto: cada comando é único, assim como o trabalho resultante. Além disso, a proximidade entre o Sistema ou Site e o cliente é algo que considera essencial, pois possibilita a criação de soluções sob medida que atendam às necessidades formais de cada pessoa. Isso é o que torna a Criação/Desenvolvimento de um sistema uma experiência tão gratificante e desafiadora. </p>
 </div>
 
 # 
