@@ -33,19 +33,19 @@
 
   <h3 align="center">Redes Sociais</h3>
   <a href="mailto:mandraketnt@gmail.com">
-    <img width="30" src="gmail.png">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">
   </a>
   <a href="https://www.linkedin.com/in/pedro-vitor-de-freitas-duarte-522000325/">
-    <img width="25" src="linkedin.webp">
+    <img width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s">
   </a>
   <a href="https://gitlab.com/Pedrodu112">
-    <img width="25" src="gitlab-Photoroom.png">
+    <img width="25" src="https://gitlab.com/uploads/-/system/project/avatar/6501521/logo-inverted.png">
   </a>
   <a href="https://www.instagram.com/pedro_vitortnt/">
-    <img width="25" src="instagram2.png">
+    <img width="25" src="https://i0.wp.com/doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png">
   </a>
   <a href="https://lucid.app/documents#/documents?folder_id=home">
-    <img width="25" src="luci.png">
+    <img width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTCRXQmYDzSfdZHKKa0pvWOHFtrNcCJRLTQ&s">
   </a>
   </div>
 </div>
